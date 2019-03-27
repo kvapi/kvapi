@@ -9,7 +9,7 @@ import RouteParams from "./models/RouteParams";
 export default class Application {
     getConfig(): any {
         return enco({
-            dir: `${__dirname}/config`,
+            dir: `${__dirname}/../config`,
             isFolderStructure: true
         });
     }
