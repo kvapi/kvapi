@@ -10,9 +10,8 @@
       "es2015.proxy"
     ],
     "outDir": "./dist",
-    "declaration": true,
     "alwaysStrict": true,
-    "resolveJsonModule": true,
+    "resolveJsonModule": true
   },
   "include": [
     "./src/**/*"
