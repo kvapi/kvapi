@@ -2,7 +2,7 @@
 
 __kvapi__ is modified short name of __Quick API__.
 
-It's __TypeScript DevStack__ for fast creation __Node.JS REST API__ application for fast 
+It's __TypeScript DevStack__ for fast creation __Node.JS REST API__ application.
 
 ## Goal and The Idea Behind
 
