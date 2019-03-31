@@ -23,7 +23,7 @@
     "enco": "^2.0.0",
     "express": "^4.16.3",
     "kontik": "^2.1.0",
-    "kudy": "^2.0.1"
+    "kudy": "^2.1.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
