@@ -7,7 +7,7 @@ chai.use(sinonChai);
 
 import services from './mock/services';
 import * as expected from './mock/data/postDetail.json';
-import RouteParams from "../../../src/models/RouteParams";
+import RouteParams from "../../../src/entities/models/RouteParams";
 
 const GetPostDetailTest = require(__dirname + '/../../../src/router/Posts/detail/GetPostDetail');
 

@@ -4,7 +4,7 @@ import kontik, {Services} from "kontik";
 import * as bodyParser from 'body-parser';
 import enco from 'enco';
 import { default as RoutesLoader } from "kudy";
-import RouteParams from "./models/RouteParams";
+import RouteParams from "./entities/models/RouteParams";
 
 export default class Application {
     getConfig(): any {

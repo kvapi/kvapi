@@ -1,5 +1,5 @@
 import {Router} from "express";
-import RouteParams from "../models/RouteParams";
+import RouteParams from "../entities/models/RouteParams";
 
 /**
  * Router decorator.

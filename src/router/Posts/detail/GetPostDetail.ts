@@ -1,10 +1,10 @@
-import ConsoleLogRoute from '../../../routes/ConsoleLogRoute';
-import CustomRouteResponse from '../../../responses/CustomRouteResponse';
+import ConsoleLogRoute from '../../../entities/routes/ConsoleLogRoute';
+import CustomRouteResponse from '../../../entities/responses/CustomRouteResponse';
 import {Request, Response} from "express";
 import { AbstractResponse } from "kudy";
 import {Services} from "kontik";
 import PostApiService from "../../../providers/PostApiService";
-import RouteParams from "../../../models/RouteParams";
+import RouteParams from "../../../entities/models/RouteParams";
 
 class GetPostDetail extends ConsoleLogRoute {
     protected postApiService: PostApiService;

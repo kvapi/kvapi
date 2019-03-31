@@ -1,6 +1,6 @@
 {
   "name": "kvapi",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "This is just empty devstack for creating new API service.",
   "main": "dist/index.js",
   "scripts": {

@@ -5,7 +5,7 @@ const expect = chai.expect;
 
 import services from './mock/services';
 import * as expected from './mock/data/postList.json';
-import RouteParams from "../../../src/models/RouteParams";
+import RouteParams from "../../../src/entities/models/RouteParams";
 
 const GetPostsListsRoute = require(__dirname + '/../../../src/router/Posts/GetPostsList');
 

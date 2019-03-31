@@ -1,5 +1,5 @@
-import ConsoleLogRoute from "../routes/ConsoleLogRoute";
-import CustomRouteResponse from "../responses/CustomRouteResponse";
+import ConsoleLogRoute from "../entities/routes/ConsoleLogRoute";
+import CustomRouteResponse from "../entities/responses/CustomRouteResponse";
 import {Request, Response} from "express";
 
 class GetPing extends ConsoleLogRoute {

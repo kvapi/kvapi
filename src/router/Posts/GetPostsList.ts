@@ -1,7 +1,7 @@
-import ConsoleLogRoute from '../../routes/ConsoleLogRoute'
-import CustomRouteResponse from '../../responses/CustomRouteResponse';
+import ConsoleLogRoute from '../../entities/routes/ConsoleLogRoute'
+import CustomRouteResponse from '../../entities/responses/CustomRouteResponse';
 import {Request, Response} from "express";
-import RouteParams from "../../models/RouteParams";
+import RouteParams from "../../entities/models/RouteParams";
 import PostApiService from "../../providers/PostApiService";
 import {JsonResponse} from "kudy";
 
