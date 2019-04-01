@@ -1,6 +1,6 @@
 {
   "name": "kvapi",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "This is just empty devstack for creating new API service.",
   "main": "dist/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "body-parser": "^1.18.3",
     "enco": "^2.1.0",
     "express": "^4.16.3",
-    "kontik": "^2.2.0",
+    "kontik": "^2.3.0",
     "kudy": "^2.1.0"
   },
   "devDependencies": {
